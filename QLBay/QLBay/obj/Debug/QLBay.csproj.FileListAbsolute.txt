@@ -1,0 +1,13 @@
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.csproj.AssemblyReference.cache
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.Form1.resources
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.Form2.resources
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.Form3.resources
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.Form4.resources
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.Properties.Resources.resources
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.csproj.GenerateResource.cache
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.csproj.CoreCompileInputs.cache
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\bin\Debug\QLBay.exe.config
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\bin\Debug\QLBay.exe
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\bin\Debug\QLBay.pdb
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.exe
+C:\Users\My Hoi\source\repos\Labs\QLBay\QLBay\obj\Debug\QLBay.pdb
