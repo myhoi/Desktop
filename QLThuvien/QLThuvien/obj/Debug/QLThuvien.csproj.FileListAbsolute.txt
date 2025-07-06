@@ -1,0 +1,12 @@
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.AssemblyReference.cache
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.Form1.resources
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.Form2.resources
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.Form3.resources
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.Properties.Resources.resources
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.GenerateResource.cache
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.csproj.CoreCompileInputs.cache
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\bin\Debug\QLThuvien.exe.config
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\bin\Debug\QLThuvien.exe
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\bin\Debug\QLThuvien.pdb
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.exe
+C:\Users\My Hoi\source\repos\Labs\QLThuvien\QLThuvien\obj\Debug\QLThuvien.pdb
